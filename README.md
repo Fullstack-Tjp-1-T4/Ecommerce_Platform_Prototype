@@ -18,7 +18,7 @@
 
 | 이름 | 역할 | 담당 업무 | GitHub |
 |---|---|---|---|
-| (팀장) | 팀장 / | | [@아이디](https://github.com/) |
+| 임지연 | 팀장 | | [@아이디](https://github.com/) |
 | | | | [@아이디](https://github.com/) |
 | | | | [@아이디](https://github.com/) |
 | | | | [@아이디](https://github.com/) |
