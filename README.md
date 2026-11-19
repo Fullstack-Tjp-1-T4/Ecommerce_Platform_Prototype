@@ -37,7 +37,7 @@
 | Database | |
 | 결제 | |
 | 배포 | |
-| 협업 | GitHub, (Notion / Discord 등) |
+| 협업 | GitHub, (Discord 등) |
 
 <br>
 
