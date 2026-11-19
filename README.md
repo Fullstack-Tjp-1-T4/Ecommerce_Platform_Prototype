@@ -18,11 +18,11 @@
 
 | 이름 | 역할 | 담당 업무 | GitHub |
 |---|---|---|---|
-| 임지연 | 팀장 | | [@깃 주소](https://github.com/jiyeon04040404/) |
-| 한아름 | 부팀장 | | [@깃 주소](https://github.com/) |
-| 박수빈 | 팀원 | | [@깃 주소](https://github.com/) |
-| 신선일 | 팀원 | | [@깃 주소](https://github.com/) |
-| 갈휘진 | 팀원 | | [@깃 주소](https://github.com/) |
+| 임지연 |  팀장 | | [@깃 주소](https://github.com/jiyeon04040404/) |
+| 한아름 |  부팀장 | | [@깃 주소](https://github.com/) |
+| 박수빈 |  팀원 | | [@깃 주소](https://github.com/) |
+| 신선일 |  팀원 | | [@깃 주소](https://github.com/) |
+| 갈휘진 |  팀원 | | [@깃 주소](https://github.com/) |
 
 <br>
 
