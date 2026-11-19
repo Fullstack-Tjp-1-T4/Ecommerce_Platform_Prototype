@@ -1,0 +1,19 @@
+# ===== 공통 (기술 스택 확정 후 항목 추가) =====
+
+# 환경 변수 / 민감 정보
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 로그
+*.log
+logs/
